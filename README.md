@@ -33,3 +33,9 @@ Focuses on extracting and processing user reviews for a specific game from the S
 ## Usage
 1. Replace game_id variable with the Steam game ID of your choice.
 2. Run the notebook cells sequentially to perform web scraping, data cleaning, analysis, and visualization.
+
+## Images
+### Pie chart representing the distribution of different review types
+![reviews_pie_chart](https://github.com/mmeru/steam-review-scraping/assets/42815425/5552aaec-b8ff-4676-bd45-fa1ffbb3a14e)
+### Box plot displaying the distribution of polarity scores categorized by the type of review
+![polarity_box_plot](https://github.com/mmeru/steam-review-scraping/assets/42815425/8f6c6b50-7c00-46cb-b1b2-7ee709b509c6)
