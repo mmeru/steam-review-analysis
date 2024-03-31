@@ -1,7 +1,7 @@
 # Web Scraping and Sentiment Analysis of Steam Game Reviews
 
 ## Description
-Focuses on extracting and processing user reviews for a specific game from the Steam community website. The primary tasks performed include:
+Focuses on extracting and processing user reviews for a specific game (I chose Elden Ring) from the Steam community website. The primary tasks performed include:
 
 1. **Web Scraping using Selenium:** Fetching reviews from Steam using Selenium to navigate and extract data from dynamic web pages.
 2. **Data Manipulation and Cleaning:** Utilizing pandas for data manipulation and cleaning tasks, including handling text data and converting strings to numeric values.
